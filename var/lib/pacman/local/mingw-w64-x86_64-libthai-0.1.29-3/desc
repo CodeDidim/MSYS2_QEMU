@@ -1,0 +1,46 @@
+%NAME%
+mingw-w64-x86_64-libthai
+
+%VERSION%
+0.1.29-3
+
+%BASE%
+mingw-w64-libthai
+
+%DESC%
+Thai language support routines (mingw-w64)
+
+%URL%
+https://linux.thai.net/projects/libthai
+
+%ARCH%
+any
+
+%BUILDDATE%
+1685993830
+
+%INSTALLDATE%
+1716838693
+
+%PACKAGER%
+CI (msys2/msys2-autobuild/79096b75/5180062286)
+
+%SIZE%
+840709
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+sha256
+pgp
+
+%DEPENDS%
+mingw-w64-x86_64-libdatrie
+
+%OPTDEPENDS%
+mingw-w64-x86_64-libthai-docs: Documentation
+

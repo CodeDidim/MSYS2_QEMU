@@ -1,0 +1,14 @@
+%FILES%
+etc/
+etc/bash-completion.d/
+etc/bash-completion.d/ninja
+usr/
+usr/bin/
+usr/bin/ninja.exe
+usr/lib/
+usr/lib/libninja.a
+usr/share/
+usr/share/zsh/
+usr/share/zsh/site-functions/
+usr/share/zsh/site-functions/_ninja
+

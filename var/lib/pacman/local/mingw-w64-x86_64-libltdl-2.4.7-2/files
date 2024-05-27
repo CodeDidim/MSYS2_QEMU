@@ -1,0 +1,14 @@
+%FILES%
+mingw64/
+mingw64/bin/
+mingw64/bin/libltdl-7.dll
+mingw64/include/
+mingw64/include/libltdl/
+mingw64/include/libltdl/lt_dlloader.h
+mingw64/include/libltdl/lt_error.h
+mingw64/include/libltdl/lt_system.h
+mingw64/include/ltdl.h
+mingw64/lib/
+mingw64/lib/libltdl.a
+mingw64/lib/libltdl.dll.a
+

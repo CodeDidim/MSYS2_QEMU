@@ -1,0 +1,43 @@
+%NAME%
+ninja
+
+%VERSION%
+1.12.1-1
+
+%BASE%
+ninja
+
+%DESC%
+Ninja is a small build system with a focus on speed
+
+%URL%
+https://ninja-build.org
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1715715433
+
+%INSTALLDATE%
+1716838513
+
+%PACKAGER%
+CI (msys2/msys2-autobuild/9c7e8d31/9085062526)
+
+%SIZE%
+736012
+
+%LICENSE%
+Apache
+
+%VALIDATION%
+pgp
+
+%OPTDEPENDS%
+ninja-vim: ninja syntax support for vim
+ninja-emacs: ninja mode for emacs
+
+%XDATA%
+pkgtype=split
+

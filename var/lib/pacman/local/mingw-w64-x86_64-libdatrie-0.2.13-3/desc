@@ -1,0 +1,46 @@
+%NAME%
+mingw-w64-x86_64-libdatrie
+
+%VERSION%
+0.2.13-3
+
+%BASE%
+mingw-w64-libdatrie
+
+%DESC%
+Implementation of double-array structure for representing trie, as proposed by Junichi Aoe. (mingw-w64)
+
+%URL%
+https://linux.thai.net/projects/datrie
+
+%ARCH%
+any
+
+%BUILDDATE%
+1685993718
+
+%INSTALLDATE%
+1716838693
+
+%PACKAGER%
+CI (msys2/msys2-autobuild/79096b75/5180062286)
+
+%SIZE%
+319466
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+sha256
+pgp
+
+%DEPENDS%
+mingw-w64-x86_64-libiconv
+
+%OPTDEPENDS%
+mingw-w64-x86_64-libdatrie-docs: Documentation
+

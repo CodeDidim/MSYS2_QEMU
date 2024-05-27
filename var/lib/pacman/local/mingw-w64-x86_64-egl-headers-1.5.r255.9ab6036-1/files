@@ -1,0 +1,8 @@
+%FILES%
+mingw64/
+mingw64/include/
+mingw64/include/EGL/
+mingw64/include/EGL/egl.h
+mingw64/include/EGL/eglext.h
+mingw64/include/EGL/eglplatform.h
+

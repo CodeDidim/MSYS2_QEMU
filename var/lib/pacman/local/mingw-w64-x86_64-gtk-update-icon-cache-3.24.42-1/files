@@ -1,0 +1,17 @@
+%FILES%
+mingw64/
+mingw64/bin/
+mingw64/bin/gtk-update-icon-cache-3.0.exe
+mingw64/bin/gtk-update-icon-cache.exe
+mingw64/share/
+mingw64/share/man/
+mingw64/share/man/man1/
+mingw64/share/man/man1/gtk-update-icon-cache.1.gz
+usr/
+usr/share/
+usr/share/libalpm/
+usr/share/libalpm/hooks/
+usr/share/libalpm/hooks/mingw-w64-x86_64-gtk-update-icon-cache.hook
+usr/share/libalpm/scripts/
+usr/share/libalpm/scripts/mingw-w64-x86_64-gtk-update-icon-cache.script
+

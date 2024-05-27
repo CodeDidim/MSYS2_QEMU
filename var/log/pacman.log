@@ -1,0 +1,360 @@
+[2024-05-07T04:58:12+0000] [PACMAN] Running 'pacman -Syu --root /d/a/msys2-installer/msys2-installer/_build/newmsys/msys64'
+[2024-05-07T04:58:12+0000] [PACMAN] synchronizing package lists
+[2024-05-07T04:58:14+0000] [PACMAN] starting core system upgrade
+[2024-05-07T04:58:14+0000] [PACMAN] starting full system upgrade
+[2024-05-07T04:58:15+0000] [PACMAN] Running 'pacman -S --noconfirm --root /d/a/msys2-installer/msys2-installer/_build/newmsys/msys64 filesystem msys2-runtime'
+[2024-05-07T04:58:16+0000] [ALPM] transaction started
+[2024-05-07T04:58:16+0000] [ALPM] installed filesystem (2023.02.07-1)
+[2024-05-07T04:58:17+0000] [ALPM] installed msys2-runtime (3.5.3-2)
+[2024-05-07T04:58:17+0000] [ALPM] transaction completed
+[2024-05-07T04:58:17+0000] [PACMAN] Running 'pacman -S --noconfirm --root /d/a/msys2-installer/msys2-installer/_build/newmsys/msys64 base'
+[2024-05-07T04:58:41+0000] [ALPM] transaction started
+[2024-05-07T04:58:41+0000] [ALPM] installed bash (5.2.026-1)
+[2024-05-07T04:58:42+0000] [ALPM] installed bash-completion (2.11-3)
+[2024-05-07T04:58:42+0000] [ALPM] installed gcc-libs (13.2.0-2)
+[2024-05-07T04:58:42+0000] [ALPM] installed libbz2 (1.0.8-4)
+[2024-05-07T04:58:42+0000] [ALPM] installed libintl (0.22.4-1)
+[2024-05-07T04:58:42+0000] [ALPM] installed libiconv (1.17-1)
+[2024-05-07T04:58:42+0000] [ALPM] installed libexpat (2.6.2-1)
+[2024-05-07T04:58:42+0000] [ALPM] installed liblzma (5.6.1-2)
+[2024-05-07T04:58:42+0000] [ALPM] installed liblz4 (1.9.4-1)
+[2024-05-07T04:58:42+0000] [ALPM] installed libopenssl (3.3.0-1)
+[2024-05-07T04:58:42+0000] [ALPM] installed libzstd (1.5.6-1)
+[2024-05-07T04:58:42+0000] [ALPM] installed zlib (1.3.1-1)
+[2024-05-07T04:58:42+0000] [ALPM] installed bsdtar (3.7.4-1)
+[2024-05-07T04:58:42+0000] [ALPM] installed bzip2 (1.0.8-4)
+[2024-05-07T04:58:42+0000] [ALPM] installed gmp (6.3.0-1)
+[2024-05-07T04:58:42+0000] [ALPM] installed coreutils (8.32-5)
+[2024-05-07T04:58:43+0000] [ALPM] installed openssl (3.3.0-1)
+[2024-05-07T04:58:43+0000] [ALPM] installed findutils (4.9.0-3)
+[2024-05-07T04:58:43+0000] [ALPM] installed sed (4.9-1)
+[2024-05-07T04:58:43+0000] [ALPM] installed libffi (3.4.6-1)
+[2024-05-07T04:58:51+0000] [ALPM] installed ncurses (6.4-2)
+[2024-05-07T04:58:51+0000] [ALPM] installed libpcre2_8 (10.43-1)
+[2024-05-07T04:58:51+0000] [ALPM] installed less (643-1)
+[2024-05-07T04:58:51+0000] [ALPM] installed gzip (1.13-1)
+[2024-05-07T04:58:51+0000] [ALPM] installed libxcrypt (4.4.36-1)
+[2024-05-07T04:58:51+0000] [ALPM] installed info (7.1-2)
+[2024-05-07T04:58:51+0000] [ALPM] installed libtasn1 (4.19.0-1)
+[2024-05-07T04:58:51+0000] [ALPM] installed libp11-kit (0.25.3-1)
+[2024-05-07T04:58:51+0000] [ALPM] installed p11-kit (0.25.3-1)
+[2024-05-07T04:58:51+0000] [ALPM] installed ca-certificates (20240203-1)
+[2024-05-07T04:58:52+0000] [ALPM] installed brotli (1.1.0-1)
+[2024-05-07T04:58:52+0000] [ALPM] installed libdb (5.3.28-5)
+[2024-05-07T04:58:52+0000] [ALPM] installed libedit (20221030_3.1-1)
+[2024-05-07T04:58:52+0000] [ALPM] installed libsqlite (3.45.3-1)
+[2024-05-07T04:58:52+0000] [ALPM] installed heimdal-libs (7.8.0-4)
+[2024-05-07T04:58:52+0000] [ALPM] installed libunistring (1.2-1)
+[2024-05-07T04:58:52+0000] [ALPM] installed libidn2 (2.3.7-1)
+[2024-05-07T04:58:52+0000] [ALPM] installed libnghttp2 (1.61.0-1)
+[2024-05-07T04:58:52+0000] [ALPM] installed libpsl (0.21.5-2)
+[2024-05-07T04:58:52+0000] [ALPM] installed libssh2 (1.11.0-1)
+[2024-05-07T04:58:52+0000] [ALPM] installed libcurl (8.7.1-1)
+[2024-05-07T04:58:53+0000] [ALPM] installed curl (8.7.1-1)
+[2024-05-07T04:58:53+0000] [ALPM] installed libpcre (8.45-4)
+[2024-05-07T04:58:53+0000] [ALPM] installed grep (1~3.0-6)
+[2024-05-07T04:58:53+0000] [ALPM] installed dash (0.5.12-1)
+[2024-05-07T04:58:53+0000] [ALPM] installed file (5.45-1)
+[2024-05-07T04:58:53+0000] [ALPM] installed mpfr (4.2.1-1)
+[2024-05-07T04:58:53+0000] [ALPM] installed libreadline (8.2.010-1)
+[2024-05-07T04:58:53+0000] [ALPM] installed gawk (5.3.0-1)
+[2024-05-07T04:58:53+0000] [ALPM] installed libargp (20110921-4)
+[2024-05-07T04:58:53+0000] [ALPM] installed getent (2.18.90-4)
+[2024-05-07T04:58:53+0000] [ALPM] installed inetutils (2.5-2)
+[2024-05-07T04:58:53+0000] [ALPM] installed mintty (1~3.7.1-1)
+[2024-05-07T04:58:53+0000] [ALPM] installed msys2-keyring (1~20240410-1)
+[2024-05-07T04:58:53+0000] [ALPM] installed msys2-launcher (1.5-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed nano (8.0-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed libgettextpo (0.22.4-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed libasprintf (0.22.4-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed gettext (0.22.4-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed libgpg-error (1.49-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed libassuan (2.5.7-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed libgcrypt (1.10.3-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed libhogweed (3.9.1-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed libnettle (3.9.1-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed libgnutls (3.8.5-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed libksba (1.6.6-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed libnpth (1.7-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed nettle (3.9.1-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed pinentry (1.2.1-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed gnupg (2.4.5-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed pacman-mirrors (20240504-1)
+[2024-05-07T04:58:54+0000] [ALPM] installed which (2.21-4)
+[2024-05-07T04:58:55+0000] [ALPM] installed xz (5.6.1-2)
+[2024-05-07T04:58:55+0000] [ALPM] installed zstd (1.5.6-1)
+[2024-05-07T04:58:55+0000] [ALPM] installed pacman (6.0.2-15)
+[2024-05-07T04:58:55+0000] [ALPM] installed db (5.3.28-5)
+[2024-05-07T04:58:55+0000] [ALPM] installed libgdbm (1.23-1)
+[2024-05-07T04:58:55+0000] [ALPM] installed gdbm (1.23-1)
+[2024-05-07T04:58:58+0000] [ALPM] installed perl (5.38.2-1)
+[2024-05-07T04:58:58+0000] [ALPM] installed pacman-contrib (1.10.5-1)
+[2024-05-07T04:58:58+0000] [ALPM] installed rebase (4.5.0-4)
+[2024-05-07T04:58:58+0000] [ALPM] installed tar (1.35-2)
+[2024-05-07T04:58:58+0000] [ALPM] installed time (1.9-3)
+[2024-05-07T04:59:01+0000] [ALPM] installed tzcode (2024a-1)
+[2024-05-07T04:59:01+0000] [ALPM] installed libutil-linux (2.35.2-4)
+[2024-05-07T04:59:01+0000] [ALPM] installed util-linux (2.35.2-4)
+[2024-05-07T04:59:01+0000] [ALPM] installed libgpgme (1.23.2-1)
+[2024-05-07T04:59:01+0000] [ALPM] installed wget (1.24.5-1)
+[2024-05-07T04:59:01+0000] [ALPM] installed base (2022.06-1)
+[2024-05-07T04:59:01+0000] [ALPM] transaction completed
+[2024-05-07T04:59:01+0000] [ALPM] running 'texinfo-install.hook'...
+[2024-05-27T23:26:26+0400] [PACMAN] Running 'pacman -Syu'
+[2024-05-27T23:26:26+0400] [PACMAN] synchronizing package lists
+[2024-05-27T23:27:18+0400] [PACMAN] starting core system upgrade
+[2024-05-27T23:27:24+0400] [ALPM] transaction started
+[2024-05-27T23:27:25+0400] [ALPM] upgraded msys2-runtime (3.5.3-2 -> 3.5.3-3)
+[2024-05-27T23:27:25+0400] [ALPM] upgraded pacman-mirrors (20240504-1 -> 20240523-1)
+[2024-05-27T23:27:25+0400] [ALPM] upgraded pacman (6.0.2-15 -> 6.1.0-3)
+[2024-05-27T23:27:25+0400] [ALPM] transaction completed
+[2024-05-27T23:27:59+0400] [PACMAN] Running 'pacman -Su'
+[2024-05-27T23:27:59+0400] [PACMAN] starting core system upgrade
+[2024-05-27T23:28:00+0400] [PACMAN] starting full system upgrade
+[2024-05-27T23:29:02+0400] [ALPM] transaction started
+[2024-05-27T23:29:02+0400] [ALPM] upgraded gcc-libs (13.2.0-2 -> 13.3.0-1)
+[2024-05-27T23:29:02+0400] [ALPM] upgraded libdb (5.3.28-5 -> 6.2.32-5)
+[2024-05-27T23:29:02+0400] [ALPM] upgraded libsqlite (3.45.3-1 -> 3.46.0-1)
+[2024-05-27T23:29:02+0400] [ALPM] upgraded heimdal-libs (7.8.0-4 -> 7.8.0-5)
+[2024-05-27T23:29:02+0400] [ALPM] upgraded libnghttp2 (1.61.0-1 -> 1.62.1-1)
+[2024-05-27T23:29:02+0400] [ALPM] upgraded libcurl (8.7.1-1 -> 8.8.0-1)
+[2024-05-27T23:29:03+0400] [ALPM] upgraded curl (8.7.1-1 -> 8.8.0-1)
+[2024-05-27T23:29:03+0400] [ALPM] upgraded db (5.3.28-5 -> 6.2.32-5)
+[2024-05-27T23:29:03+0400] [ALPM] upgraded libgpgme (1.23.2-1 -> 1.23.2-2)
+[2024-05-27T23:29:04+0400] [ALPM] upgraded perl (5.38.2-1 -> 5.38.2-2)
+[2024-05-27T23:29:05+0400] [ALPM] upgraded pacman-contrib (1.10.5-1 -> 1.10.6-1)
+[2024-05-27T23:29:05+0400] [ALPM] upgraded wget (1.24.5-1 -> 1.24.5-2)
+[2024-05-27T23:29:05+0400] [ALPM] transaction completed
+[2024-05-27T23:29:05+0400] [ALPM] running 'texinfo-install.hook'...
+[2024-05-27T23:29:21+0400] [PACMAN] Running 'pacman -S base-devel'
+[2024-05-27T23:30:13+0400] [ALPM] transaction started
+[2024-05-27T23:30:13+0400] [ALPM] installed binutils (2.42-1)
+[2024-05-27T23:30:14+0400] [ALPM] installed m4 (1.4.19-2)
+[2024-05-27T23:30:14+0400] [ALPM] installed bison (3.8.2-5)
+[2024-05-27T23:30:14+0400] [ALPM] installed diffstat (1.65-1)
+[2024-05-27T23:30:14+0400] [ALPM] installed diffutils (3.10-1)
+[2024-05-27T23:30:14+0400] [ALPM] installed dos2unix (7.5.2-1)
+[2024-05-27T23:30:14+0400] [ALPM] installed flex (2.6.4-3)
+[2024-05-27T23:30:14+0400] [ALPM] installed texinfo (7.1-2)
+[2024-05-27T23:30:14+0400] [ALPM] installed texinfo-tex (7.1-2)
+[2024-05-27T23:30:15+0400] [ALPM] installed make (4.4.1-2)
+[2024-05-27T23:30:15+0400] [ALPM] installed patch (2.7.6-2)
+[2024-05-27T23:30:15+0400] [ALPM] installed pkgconf (2.1.1-1)
+[2024-05-27T23:30:15+0400] [ALPM] installed base-devel (2022.12-2)
+[2024-05-27T23:30:15+0400] [ALPM] transaction completed
+[2024-05-27T23:30:15+0400] [ALPM] running 'texinfo-install.hook'...
+[2024-05-27T23:30:44+0400] [PACMAN] Running 'pacman -S base-devel'
+[2024-05-27T23:30:48+0400] [ALPM] transaction started
+[2024-05-27T23:30:48+0400] [ALPM] reinstalled base-devel (2022.12-2)
+[2024-05-27T23:30:48+0400] [ALPM] transaction completed
+[2024-05-27T23:31:12+0400] [PACMAN] Running 'pacman -S mingw-w64-x86_64-toolchain'
+[2024-05-27T23:33:05+0400] [ALPM] transaction started
+[2024-05-27T23:33:05+0400] [ALPM] installed mingw-w64-x86_64-libwinpthread-git (11.0.0.r750.g05598db99-1)
+[2024-05-27T23:33:05+0400] [ALPM] installed mingw-w64-x86_64-gcc-libs (14.1.0-3)
+[2024-05-27T23:33:05+0400] [ALPM] installed mingw-w64-x86_64-libiconv (1.17-4)
+[2024-05-27T23:33:05+0400] [ALPM] installed mingw-w64-x86_64-gettext-runtime (0.22.5-2)
+[2024-05-27T23:33:05+0400] [ALPM] installed mingw-w64-x86_64-zlib (1.3.1-1)
+[2024-05-27T23:33:05+0400] [ALPM] installed mingw-w64-x86_64-zstd (1.5.6-2)
+[2024-05-27T23:33:05+0400] [ALPM] installed mingw-w64-x86_64-binutils (2.42-2)
+[2024-05-27T23:33:07+0400] [ALPM] installed mingw-w64-x86_64-headers-git (11.0.0.r750.g05598db99-1)
+[2024-05-27T23:33:08+0400] [ALPM] installed mingw-w64-x86_64-crt-git (11.0.0.r750.g05598db99-1)
+[2024-05-27T23:33:08+0400] [ALPM] installed mingw-w64-x86_64-gmp (6.3.0-2)
+[2024-05-27T23:33:08+0400] [ALPM] installed mingw-w64-x86_64-isl (0.26-1)
+[2024-05-27T23:33:08+0400] [ALPM] installed mingw-w64-x86_64-mpfr (4.2.1-2)
+[2024-05-27T23:33:08+0400] [ALPM] installed mingw-w64-x86_64-mpc (1.3.1-2)
+[2024-05-27T23:33:08+0400] [ALPM] installed mingw-w64-x86_64-windows-default-manifest (6.4-4)
+[2024-05-27T23:33:08+0400] [ALPM] installed mingw-w64-x86_64-winpthreads-git (11.0.0.r750.g05598db99-1)
+[2024-05-27T23:33:10+0400] [ALPM] installed mingw-w64-x86_64-gcc (14.1.0-3)
+[2024-05-27T23:33:10+0400] [ALPM] installed mingw-w64-x86_64-libtre-git (r177.07e66d0-2)
+[2024-05-27T23:33:10+0400] [ALPM] installed mingw-w64-x86_64-libsystre (1.0.1-5)
+[2024-05-27T23:33:15+0400] [ALPM] installed mingw-w64-x86_64-ncurses (6.4.20231217-1)
+[2024-05-27T23:33:15+0400] [ALPM] installed mingw-w64-x86_64-expat (2.6.2-1)
+[2024-05-27T23:33:15+0400] [ALPM] installed mingw-w64-x86_64-bzip2 (1.0.8-3)
+[2024-05-27T23:33:15+0400] [ALPM] installed mingw-w64-x86_64-libffi (3.4.6-1)
+[2024-05-27T23:33:15+0400] [ALPM] installed mingw-w64-x86_64-mpdecimal (4.0.0-1)
+[2024-05-27T23:33:21+0400] [ALPM] installed mingw-w64-x86_64-openssl (3.3.0-2)
+[2024-05-27T23:33:21+0400] [ALPM] installed mingw-w64-x86_64-termcap (1.3.1-7)
+[2024-05-27T23:33:21+0400] [ALPM] installed mingw-w64-x86_64-readline (8.2.010-1)
+[2024-05-27T23:33:23+0400] [ALPM] installed mingw-w64-x86_64-tcl (8.6.13-1)
+[2024-05-27T23:33:23+0400] [ALPM] installed mingw-w64-x86_64-sqlite3 (3.46.0-1)
+[2024-05-27T23:33:23+0400] [ALPM] installed mingw-w64-x86_64-tk (8.6.13-1)
+[2024-05-27T23:33:24+0400] [ALPM] installed mingw-w64-x86_64-xz (5.6.1-2)
+[2024-05-27T23:33:26+0400] [ALPM] installed mingw-w64-x86_64-tzdata (2024a-1)
+[2024-05-27T23:33:33+0400] [ALPM] installed mingw-w64-x86_64-python (3.11.9-1)
+[2024-05-27T23:33:33+0400] [ALPM] installed mingw-w64-x86_64-xxhash (0.8.2-2)
+[2024-05-27T23:33:33+0400] [ALPM] installed mingw-w64-x86_64-gdb (14.2-1)
+[2024-05-27T23:33:34+0400] [ALPM] installed mingw-w64-x86_64-gdb-multiarch (14.2-1)
+[2024-05-27T23:33:34+0400] [ALPM] installed mingw-w64-x86_64-libmangle-git (11.0.0.r750.g05598db99-1)
+[2024-05-27T23:33:34+0400] [ALPM] installed mingw-w64-x86_64-make (4.4.1-2)
+[2024-05-27T23:33:34+0400] [ALPM] installed mingw-w64-x86_64-pkgconf (1~2.2.0-1)
+[2024-05-27T23:33:34+0400] [ALPM] installed mingw-w64-x86_64-tools-git (11.0.0.r750.g05598db99-1)
+[2024-05-27T23:33:34+0400] [ALPM] installed mingw-w64-x86_64-winstorecompat-git (11.0.0.r750.g05598db99-1)
+[2024-05-27T23:33:34+0400] [ALPM] transaction completed
+[2024-05-27T23:33:46+0400] [PACMAN] Running 'pacman -S git'
+[2024-05-27T23:34:19+0400] [ALPM] transaction started
+[2024-05-27T23:34:20+0400] [ALPM] installed heimdal (7.8.0-5)
+[2024-05-27T23:34:20+0400] [ALPM] installed libcbor (0.11.0-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed libfido2 (1.14.0-2)
+[2024-05-27T23:34:20+0400] [ALPM] installed openssh (9.7p1-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-Error (0.17029-2)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-Authen-SASL (2.1700-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-Encode-Locale (1.05-2)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-HTTP-Date (6.06-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-File-Listing (6.16-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-HTML-Tagset (3.20-3)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-Clone (0.46-2)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-IO-HTML (1.004-2)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-LWP-MediaTypes (6.04-2)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-URI (5.21-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-HTTP-Message (6.45-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-HTML-Parser (3.82-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-HTTP-Cookies (6.11-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-HTTP-Daemon (6.16-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-http-cookiejar (0.014-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-HTTP-Negotiate (6.01-3)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-Net-HTTP (6.23-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-WWW-RobotRules (6.02-3)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-Try-Tiny (0.31-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-libwww (6.72-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-TimeDate (2.33-2)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-MailTools (2.21-2)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-IO-Stringy (2.113-2)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-Convert-BinHex (1.125-2)
+[2024-05-27T23:34:20+0400] [ALPM-SCRIPTLET] module test... pass.
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-MIME-tools (5.515-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-Net-SSLeay (1.94-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-IO-Socket-SSL (2.085-1)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-Net-SMTP-SSL (1.04-2)
+[2024-05-27T23:34:20+0400] [ALPM] installed perl-TermReadKey (2.38-6)
+[2024-05-27T23:34:21+0400] [ALPM] installed git (2.45.1-1)
+[2024-05-27T23:34:21+0400] [ALPM] transaction completed
+[2024-05-27T23:34:43+0400] [PACMAN] Running 'pacman -S python'
+[2024-05-27T23:34:53+0400] [ALPM] transaction started
+[2024-05-27T23:34:53+0400] [ALPM] installed mpdecimal (4.0.0-1)
+[2024-05-27T23:35:00+0400] [ALPM] installed python (3.11.9-1)
+[2024-05-27T23:35:00+0400] [ALPM] transaction completed
+[2024-05-27T23:35:09+0400] [PACMAN] Running 'pacman -S ninja'
+[2024-05-27T23:35:13+0400] [ALPM] transaction started
+[2024-05-27T23:35:13+0400] [ALPM] installed ninja (1.12.1-1)
+[2024-05-27T23:35:13+0400] [ALPM] transaction completed
+[2024-05-27T23:35:33+0400] [PACMAN] Running 'pacman -S mingw-w64-x86_64-glib2 mingw-w64-x86_64-pixman python-setuptools'
+[2024-05-27T23:36:39+0400] [ALPM] transaction started
+[2024-05-27T23:36:39+0400] [ALPM] installed mingw-w64-x86_64-wineditline (2.206-1)
+[2024-05-27T23:36:39+0400] [ALPM] installed mingw-w64-x86_64-pcre2 (10.43-2)
+[2024-05-27T23:36:39+0400] [ALPM] installed mingw-w64-x86_64-python-packaging (23.2-1)
+[2024-05-27T23:36:40+0400] [ALPM] installed mingw-w64-x86_64-glib2 (2.80.2-2)
+[2024-05-27T23:36:40+0400] [ALPM] installed mingw-w64-x86_64-pixman (0.43.4-1)
+[2024-05-27T23:36:40+0400] [ALPM] installed python-setuptools (69.0.3-1)
+[2024-05-27T23:36:40+0400] [ALPM] transaction completed
+[2024-05-27T23:36:59+0400] [PACMAN] Running 'pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-SDL2 mingw-w64-x86_64-libslirp'
+[2024-05-27T23:38:09+0400] [ALPM] transaction started
+[2024-05-27T23:38:09+0400] [ALPM] installed mingw-w64-x86_64-hicolor-icon-theme (0.17-3)
+[2024-05-27T23:38:09+0400] [ALPM] installed mingw-w64-x86_64-libjpeg-turbo (3.0.3-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-libpng (1.6.43-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-jbigkit (2.1-5)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-lerc (4.0.0-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-libdeflate (1.20-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-giflib (5.2.2-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-libwebp (1.4.0-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-libtiff (4.6.0-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-gdk-pixbuf2 (2.42.12-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-brotli (1.1.0-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-graphite2 (1.3.14-3)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-harfbuzz (8.5.0-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-freetype (2.13.2-1)
+[2024-05-27T23:38:10+0400] [ALPM] installed mingw-w64-x86_64-fontconfig (2.15.0-2)
+[2024-05-27T23:38:13+0400] [ALPM-SCRIPTLET] updating font cache... done.
+[2024-05-27T23:38:13+0400] [ALPM] installed mingw-w64-x86_64-lzo2 (2.10-2)
+[2024-05-27T23:38:13+0400] [ALPM] installed mingw-w64-x86_64-cairo (1.18.0-3)
+[2024-05-27T23:38:13+0400] [ALPM] installed mingw-w64-x86_64-fribidi (1.0.14-1)
+[2024-05-27T23:38:13+0400] [ALPM] installed mingw-w64-x86_64-libdatrie (0.2.13-3)
+[2024-05-27T23:38:13+0400] [ALPM] installed mingw-w64-x86_64-libthai (0.1.29-3)
+[2024-05-27T23:38:13+0400] [ALPM] installed mingw-w64-x86_64-pango (1.52.2-1)
+[2024-05-27T23:38:13+0400] [ALPM] installed mingw-w64-x86_64-libxml2 (2.12.7-1)
+[2024-05-27T23:38:13+0400] [ALPM] installed mingw-w64-x86_64-librsvg (2.58.0-1)
+[2024-05-27T23:38:13+0400] [ALPM] installed mingw-w64-x86_64-gtk-update-icon-cache (3.24.42-1)
+[2024-05-27T23:38:14+0400] [ALPM] installed mingw-w64-x86_64-adwaita-icon-theme (46.0-1)
+[2024-05-27T23:38:14+0400] [ALPM] installed mingw-w64-x86_64-atk (2.52.0-1)
+[2024-05-27T23:38:14+0400] [ALPM] installed mingw-w64-x86_64-json-glib (1.8.0-1)
+[2024-05-27T23:38:14+0400] [ALPM] installed mingw-w64-x86_64-egl-headers (1.5.r255.9ab6036-1)
+[2024-05-27T23:38:14+0400] [ALPM] installed mingw-w64-x86_64-gles-headers (3.2.r1005.d127c30-1)
+[2024-05-27T23:38:14+0400] [ALPM] installed mingw-w64-x86_64-libepoxy (1.5.10-5)
+[2024-05-27T23:38:15+0400] [ALPM] installed mingw-w64-x86_64-shared-mime-info (2.4-1)
+[2024-05-27T23:38:15+0400] [ALPM] installed mingw-w64-x86_64-gtk3 (3.24.42-1)
+[2024-05-27T23:38:15+0400] [ALPM] installed mingw-w64-x86_64-vulkan-loader (1.3.283.0-1)
+[2024-05-27T23:38:15+0400] [ALPM] installed mingw-w64-x86_64-SDL2 (2.30.3-1)
+[2024-05-27T23:38:15+0400] [ALPM] installed mingw-w64-x86_64-libslirp (4.8.0-1)
+[2024-05-27T23:38:15+0400] [ALPM] transaction completed
+[2024-05-27T23:38:16+0400] [ALPM] running 'mingw-w64-x86_64-fontconfig.hook'...
+[2024-05-27T23:38:16+0400] [ALPM] running 'mingw-w64-x86_64-gdk-pixbuf-query-loaders.hook'...
+[2024-05-27T23:38:16+0400] [ALPM] running 'mingw-w64-x86_64-glib-compile-schemas.hook'...
+[2024-05-27T23:38:17+0400] [ALPM] running 'mingw-w64-x86_64-gtk-update-icon-cache.hook'...
+[2024-05-27T23:38:17+0400] [ALPM] running 'mingw-w64-x86_64-update-mime-database.hook'...
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] 
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] Note that 'C:/msys64/mingw64/share' is not in the search path
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] set by the XDG_DATA_HOME and XDG_DATA_DIRS
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] environment variables, so applications may not
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] be able to find it until you set them. The
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] directories currently searched are:
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] 
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] - C:\msys64\home\User\.local\share
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] - /usr/local/share/
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] - /usr/share/
+[2024-05-27T23:38:18+0400] [ALPM-SCRIPTLET] 
+[2024-05-27T23:42:20+0400] [PACMAN] Running 'pacman -S mingw-w64-x86_64-libgcrypt'
+[2024-05-27T23:43:10+0400] [ALPM] transaction started
+[2024-05-27T23:43:10+0400] [ALPM] installed mingw-w64-x86_64-libgpg-error (1.49-1)
+[2024-05-27T23:43:10+0400] [ALPM] installed mingw-w64-x86_64-libgcrypt (1.10.3-1)
+[2024-05-27T23:43:10+0400] [ALPM] transaction completed
+[2024-05-27T23:44:31+0400] [PACMAN] Running 'pacman -S autoconf2.72'
+[2024-05-27T23:44:36+0400] [ALPM] transaction started
+[2024-05-27T23:44:36+0400] [ALPM] installed autoconf2.72 (2.72-1)
+[2024-05-27T23:44:36+0400] [ALPM] transaction completed
+[2024-05-27T23:44:36+0400] [ALPM] running 'texinfo-install.hook'...
+[2024-05-27T23:45:09+0400] [PACMAN] Running 'pacman -S automake1.16'
+[2024-05-27T23:45:13+0400] [ALPM] transaction started
+[2024-05-27T23:45:13+0400] [ALPM] installed automake1.16 (1.16.5-1)
+[2024-05-27T23:45:13+0400] [ALPM] transaction completed
+[2024-05-27T23:45:13+0400] [ALPM] running 'texinfo-install.hook'...
+[2024-05-27T23:46:06+0400] [PACMAN] Running 'pacman -S mingw-w64-x86_64-libtool'
+[2024-05-27T23:46:56+0400] [ALPM] transaction started
+[2024-05-27T23:46:56+0400] [ALPM] installed mingw-w64-x86_64-libltdl (2.4.7-2)
+[2024-05-27T23:46:56+0400] [ALPM] installed mingw-w64-x86_64-libtool (2.4.7-2)
+[2024-05-27T23:46:56+0400] [ALPM] transaction completed
+[2024-05-27T23:47:21+0400] [PACMAN] Running 'pacman -S bison flex libpixman-1-dev'
+[2024-05-27T23:47:29+0400] [PACMAN] Running 'pacman -S bison flex'
+[2024-05-27T23:47:31+0400] [ALPM] transaction started
+[2024-05-27T23:47:31+0400] [ALPM] reinstalled bison (3.8.2-5)
+[2024-05-27T23:47:31+0400] [ALPM] reinstalled flex (2.6.4-3)
+[2024-05-27T23:47:31+0400] [ALPM] transaction completed
+[2024-05-27T23:47:31+0400] [ALPM] running 'texinfo-install.hook'...
+[2024-05-27T23:52:01+0400] [PACMAN] Running 'pacman -S mingw-w64-x86_64-glib2 mingw-w64-x86_64-gtk3 mingw-w64-x86_64-SDL2'
+[2024-05-27T23:52:05+0400] [ALPM] transaction started
+[2024-05-27T23:52:06+0400] [ALPM] reinstalled mingw-w64-x86_64-glib2 (2.80.2-2)
+[2024-05-27T23:52:07+0400] [ALPM] reinstalled mingw-w64-x86_64-gtk3 (3.24.42-1)
+[2024-05-27T23:52:07+0400] [ALPM] reinstalled mingw-w64-x86_64-SDL2 (2.30.3-1)
+[2024-05-27T23:52:07+0400] [ALPM] transaction completed
+[2024-05-27T23:52:07+0400] [ALPM] running 'mingw-w64-x86_64-glib-compile-schemas.hook'...
+[2024-05-27T23:52:07+0400] [ALPM] running 'mingw-w64-x86_64-gtk-update-icon-cache.hook'...
+[2024-05-28T00:38:00+0400] [PACMAN] Running 'pacman -S vim'
+[2024-05-28T00:38:53+0400] [ALPM] transaction started
+[2024-05-28T00:38:55+0400] [ALPM] installed vim (9.1.0380-1)
+[2024-05-28T00:38:55+0400] [ALPM] transaction completed
+[2024-05-28T00:52:13+0400] [PACMAN] Running 'pacman -S meson'
+[2024-05-28T00:53:05+0400] [ALPM] transaction started
+[2024-05-28T00:53:06+0400] [ALPM] installed meson (1.4.0-1)
+[2024-05-28T00:53:06+0400] [ALPM] transaction completed
+[2024-05-28T00:54:10+0400] [PACMAN] Running 'pacman -S mingw-w64-x86_64-python3'
+[2024-05-28T00:54:12+0400] [ALPM] transaction started
+[2024-05-28T00:54:22+0400] [ALPM] reinstalled mingw-w64-x86_64-python (3.11.9-1)
+[2024-05-28T00:54:22+0400] [ALPM] transaction completed
+[2024-05-28T00:54:31+0400] [PACMAN] Running 'pacman -S mingw-w64-x86_64-meson'
+[2024-05-28T00:54:36+0400] [ALPM] transaction started
+[2024-05-28T00:54:36+0400] [ALPM] installed mingw-w64-x86_64-ninja (1.12.1-1)
+[2024-05-28T00:54:37+0400] [ALPM] installed mingw-w64-x86_64-meson (1.4.0-3)
+[2024-05-28T00:54:37+0400] [ALPM] transaction completed
+[2024-05-28T01:04:42+0400] [PACMAN] Running 'pacman -S dtc'
+[2024-05-28T01:04:47+0400] [ALPM] transaction started
+[2024-05-28T01:04:47+0400] [ALPM] installed libyaml (0.2.5-2)
+[2024-05-28T01:04:47+0400] [ALPM] installed dtc (1.6.1-3)
+[2024-05-28T01:04:47+0400] [ALPM] transaction completed

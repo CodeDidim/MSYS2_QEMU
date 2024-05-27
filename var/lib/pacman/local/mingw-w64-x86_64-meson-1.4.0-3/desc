@@ -1,0 +1,49 @@
+%NAME%
+mingw-w64-x86_64-meson
+
+%VERSION%
+1.4.0-3
+
+%BASE%
+mingw-w64-meson
+
+%DESC%
+High-productivity build system (mingw-w64)
+
+%URL%
+https://mesonbuild.com/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1715893432
+
+%INSTALLDATE%
+1716843277
+
+%PACKAGER%
+CI (msys2/msys2-autobuild/9c7e8d31/9119091762)
+
+%SIZE%
+13477747
+
+%LICENSE%
+spdx:Apache-2.0
+
+%VALIDATION%
+sha256
+pgp
+
+%DEPENDS%
+mingw-w64-x86_64-python
+mingw-w64-x86_64-ninja
+mingw-w64-x86_64-pkgconf
+
+%OPTDEPENDS%
+mingw-w64-x86_64-ccache: for a faster compilation
+mingw-w64-x86_64-sccache: for a faster compilation (preferred over ccache)
+
+%XDATA%
+pkgtype=pkg
+

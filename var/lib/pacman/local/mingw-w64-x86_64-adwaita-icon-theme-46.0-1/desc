@@ -1,0 +1,45 @@
+%NAME%
+mingw-w64-x86_64-adwaita-icon-theme
+
+%VERSION%
+46.0-1
+
+%BASE%
+mingw-w64-adwaita-icon-theme
+
+%DESC%
+GNOME standard icons (mingw-w64)
+
+%URL%
+https://gitlab.gnome.org/GNOME/adwaita-icon-theme
+
+%ARCH%
+any
+
+%BUILDDATE%
+1711037172
+
+%INSTALLDATE%
+1716838694
+
+%PACKAGER%
+CI (msys2/msys2-autobuild/3e617554/8378046708)
+
+%SIZE%
+5477375
+
+%REASON%
+1
+
+%LICENSE%
+spdx:LGPL-3.0-or-later OR CC-BY-SA-3.0
+
+%VALIDATION%
+sha256
+pgp
+
+%DEPENDS%
+mingw-w64-x86_64-hicolor-icon-theme
+mingw-w64-x86_64-librsvg
+mingw-w64-x86_64-gtk-update-icon-cache
+

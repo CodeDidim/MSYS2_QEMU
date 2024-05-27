@@ -1,0 +1,7 @@
+%FILES%
+mingw64/
+mingw64/bin/
+mingw64/bin/ninja.exe
+mingw64/lib/
+mingw64/lib/libninja.a
+
